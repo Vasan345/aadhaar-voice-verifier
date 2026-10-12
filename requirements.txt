@@ -1,0 +1,6 @@
+opencv-python>=4.8
+numpy>=1.24
+pyttsx3>=2.90
+pyzbar>=0.1.9
+ultralytics>=8.0
+easyocr>=1.7

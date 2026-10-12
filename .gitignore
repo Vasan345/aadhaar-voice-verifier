@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Model weights / training output (large — host separately or use Git LFS)
+runs/
+*.pt
+*.onnx
+
+# Anything containing real identity data
+samples/
+*.jpg
+*.jpeg
+*.png
+*.mp4
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
